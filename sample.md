@@ -27,4 +27,4 @@
 
  This assumes that there are no syntax errors or issues with indentation in your actual code file. Python relies on proper indentation to determine the scope of code blocks, so make sure that the `print` statement inside the `if` block is indented correctly by four spaces or one tab character.
 
- ![A cute cat image](https://photographylife.com/raw-vs-jpeg.gif)
+ ![A cute cat image](https://photographylife.com/raw-vs-jpeg)
